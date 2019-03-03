@@ -17,7 +17,7 @@
         android:layout_marginEnd="99dp"
         android:layout_marginRight="99dp"
         android:layout_marginBottom="31dp"
-        android:background="@drawable/buttoncapsule"
+        android:background="@drawable/buttoncapsule_blue"
         android:text="START"
         android:textColor="@android:color/white"
         android:textSize="32sp"
